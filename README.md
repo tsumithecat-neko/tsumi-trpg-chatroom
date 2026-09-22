@@ -43,7 +43,7 @@
 ## 二、进房间
 
 <p align="center">
-  <img src="docs/screenshots/01-login.png" width="440" alt="登录界面：输入呼号、选择身份" />
+  <img src="01-login.png" width="440" alt="登录界面：输入呼号、选择身份" />
 </p>
 
 <p align="center"><sub>登录界面 —— 输入呼号、选身份，点「接入频道」</sub></p>
@@ -96,7 +96,7 @@
 > 母舰规则下的职业匹配（中英文都认）：Scientist / 科学家、Teamster / 机械师 / 驾驶员、Android / 仿生人 / 机器人、Marine / 海军陆战队。
 
 <p align="center">
-  <img src="docs/screenshots/02-chat.png" width="740" alt="频道聊天与投骰" />
+  <img src="02-chat.png" width="740" alt="频道聊天与投骰" />
 </p>
 
 <p align="center"><sub>频道聊天 —— 场景旁白、玩家发言、投骰结果都在这条时间线上</sub></p>
@@ -122,7 +122,7 @@
 - 地图是**跟着频道**的，换规则不会删你的图
 
 <p align="center">
-  <img src="docs/screenshots/03-map.png" width="740" alt="战术地图：房间、走廊、门与梯子" />
+  <img src="03-map.png" width="740" alt="战术地图：房间、走廊、门与梯子" />
 </p>
 
 <p align="center"><sub>地图（区域样式）—— 房间、走廊、门、跨层梯子，入口标 ★；玩家只看到自己所在楼层已公开的部分</sub></p>
@@ -156,7 +156,7 @@
 **所有人同步听** —— 中途进来、掉线重连的人会自动追上同一个位置。每个人可以**本地静音 / 调自己的音量**，不影响别人。左下角有浮动播放条，可以收成 ♪ 药丸，不挡界面。
 
 <p align="center">
-  <img src="docs/screenshots/04-music.png" width="740" alt="频道音响：曲库、进度与主音量" />
+  <img src="04-music.png" width="740" alt="频道音响：曲库、进度与主音量" />
 </p>
 
 <p align="center"><sub>频道音响（GM）—— 曲库一键播放 / 当音效放一次，进度和音量全服同步</sub></p>
