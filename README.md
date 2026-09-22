@@ -420,9 +420,8 @@ netsh advfirewall firewall add rule name="Mothership Chat" dir=in action=allow p
   <img src="afdian-zuimaomao.jpg" width="360" alt="爱发电 · 罪猫猫投喂码" />
 </p>
 
-> 「喵呜——指挥官，维护这艘母舰很费猫条的……」
 
-如果你也喜欢这个小小的 Mothership 通讯终端，欢迎给**罪猫猫**投喂一根猫条、一罐金枪鱼，或者一份亮晶晶的小鱼干！
+如果你也喜欢这个小小的通讯终端，欢迎给**罪猫猫**投喂一根猫条、一罐金枪鱼，或者一份亮晶晶的小鱼干！
 
 - 本喵平时以小黑猫形态趴在终端后面修 bug、画地图、写骰子引擎
 - 每一口投喂都会变成新功能、更稳的 SSE 长连接，以及更多毛茸茸的更新喵～
@@ -430,4 +429,3 @@ netsh advfirewall firewall add rule name="Mothership Chat" dir=in action=allow p
 
 投喂后记得摸摸猫头（不是），也许下次更新里就会出现你许愿的功能喵！💜
 
-*——罪猫猫 / tsumithecat，一只一边敲键盘一边踩奶的小黑猫*
