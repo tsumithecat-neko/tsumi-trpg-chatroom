@@ -417,7 +417,7 @@ netsh advfirewall firewall add rule name="Mothership Chat" dir=in action=allow p
 ## 🐾 投喂罪猫猫
 
 <p align="center">
-  <img src="afdian-zuimaomao.jpg" width="360" alt="爱发电 · 罪猫猫投喂码" />
+  <img src="afd_tsumi.jpg" width="360" alt="爱发电 · 罪猫猫投喂码" />
 </p>
 
 
